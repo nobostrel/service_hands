@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.label {
+  display: inline-block;
+  margin: 10px;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  border-radius: 10px;
+  margin-left: 15px;
+  width: 100px;
+  height: 25px;
+  font-size: 1em;
+  font-weight: bold;
+  color: yellow;
+  background: lightgreen;
+}
